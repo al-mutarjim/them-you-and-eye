@@ -1152,13 +1152,6 @@
     "@emotion/react" "^11.4.1"
     csstype "^3.0.9"
 
-"@theme-ui/css@0.14.3":
-  version "0.14.3"
-  resolved "https://registry.yarnpkg.com/@theme-ui/css/-/css-0.14.3.tgz#dcd479a599cf5944c53120b88360b76874cd9890"
-  integrity sha512-aOmCIgIoXc1bqSKjnjrDOX58YEsh+CR2i9zCEFFKEdnjl7pjD/1WgkTROCrpXPCrvKwk90tA9nVt6MC6tTT+EA==
-  dependencies:
-    csstype "^3.0.10"
-
 "@theme-ui/css@0.14.4":
   version "0.14.4"
   resolved "https://registry.yarnpkg.com/@theme-ui/css/-/css-0.14.4.tgz#8ae36918046490cc850a6a48ae5b852fb31960d1"
@@ -1515,10 +1508,10 @@
   dependencies:
     "@types/istanbul-lib-report" "*"
 
-"@types/jest@*", "@types/jest@^27.4.1":
-  version "27.4.1"
-  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-27.4.1.tgz#185cbe2926eaaf9662d340cc02e548ce9e11ab6d"
-  integrity sha512-23iPJADSmicDVrWk+HT58LMJtzLAnB2AgIzplQuq/bSrGaxCrlvRFjGbXmamnnk/mAmCdLStiGqggu28ocUyiw==
+"@types/jest@*", "@types/jest@^27.5.0":
+  version "27.5.0"
+  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-27.5.0.tgz#e04ed1824ca6b1dd0438997ba60f99a7405d4c7b"
+  integrity sha512-9RBFx7r4k+msyj/arpfaa0WOOEcaAZNmN+j80KFbFCoSqCJGHTz7YMAMGQW9Xmqm5w6l5c25vbSjMwlikJi5+g==
   dependencies:
     jest-matcher-utils "^27.0.0"
     pretty-format "^27.0.0"
